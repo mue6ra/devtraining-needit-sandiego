@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>List  of all Needlt records in the database.</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>ALL</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_58872_needit_needit</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-30 11:06:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>45cd21512f33c110b99959a72799b643</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>ALL</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_45cd21512f33c110b99959a72799b643</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-31 01:04:50</sys_updated_on>
+        <timeline_page/>
+        <title>ALL</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>17e8ae74dba8bf002f68c597059619c8</instance_id>
+        <instance_name>dev77883</instance_name>
+        <name>sys_app_module_45cd21512f33c110b99959a72799b643</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application/><assessment/><device_type/><filter/><hint>List  of all Needlt records in the database.</hint><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>ALL</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_58872_needit_needit</name><order>200</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-30 11:06:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>45cd21512f33c110b99959a72799b643</sys_id><sys_mod_count>6</sys_mod_count><sys_name>ALL</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_45cd21512f33c110b99959a72799b643</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-31 01:04:50</sys_updated_on><timeline_page/><title>ALL</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>330947594</payload_hash>
+        <record_name>ALL</record_name>
+        <reverted_from/>
+        <source>6b40c9552f7f8110b99959a72799b6c6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-31 01:04:50</sys_created_on>
+        <sys_id>bf41b06d2fbbc110b99959a72799b6cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18117a4e31e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-31 01:04:50</sys_updated_on>
+        <type>Module</type>
+        <update_guid>b741b06d42bbc1105f39ca8ad93dc0cd</update_guid>
+        <update_guid_history>b741b06d42bbc1105f39ca8ad93dc0cd:330947594,f17b64255abbc1102ed4ab974dda29da:1735068430,bd59e82530bbc110503134b33eb4c65d:-1136026,03192c6553bbc1102b9727fa30f9bfff:-1629966727,74d7642506bbc110bdaec9d219f79ad4:130823513,1ab4a06127bbc110538a39b3099b71a3:1735068430,d47139dd3fff8110261f30c6c18f706a:741445437</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ALL">a37870252ffbc110b99959a72799b6c4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-31 01:36:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1494e40f44e9437883940705be880424</sys_id>
+        <sys_metadata>45cd21512f33c110b99959a72799b643</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ALL</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_45cd21512f33c110b99959a72799b643</sys_update_name>
+        <sys_update_version display_value="sys_app_module_45cd21512f33c110b99959a72799b643">bf41b06d2fbbc110b99959a72799b6cd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-31 01:36:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
